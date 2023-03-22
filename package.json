@@ -1,0 +1,12 @@
+{
+	"name": "utility",
+	"version": "0.1.0",
+	"main": "index.js",
+	"repository": "https://github.com/mjnrock/util.git",
+	"author": "LesPantsFancy <mjnrock@umich.edu>",
+	"license": "MIT",
+	"dependencies": {
+		"esm": "^3.2.25",
+		"uuid": "^9.0.0"
+	}
+}

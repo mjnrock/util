@@ -1,0 +1,12 @@
+{
+	"name": "ecs-tests",
+	"version": "0.1.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"esm": "^3.2.25"
+	},
+	"scripts": {
+		"test": "node -r esm index.js"
+	}
+}
